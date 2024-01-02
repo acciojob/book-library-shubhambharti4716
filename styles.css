@@ -18,8 +18,8 @@ body {
   border-radius: 5px;
   padding-block: 10px;
 }
-h1{
-    cursor: pointer;
+h1 {
+  cursor: pointer;
 }
 .book {
   display: flex;
@@ -35,45 +35,46 @@ h1{
   width: 50%;
   overflow: hidden;
   margin-block: 10px;
-	background-color: rgb(46, 204, 113);
-	color: rgb(255, 255, 255);
+  background-color: rgb(46, 204, 113);
+  color: rgb(255, 255, 255);
 }
 img {
   width: 100%;
   height: 100%;
 }
-.white-margin{
-    width:99%;
-    height:10px;
-	background-color:white;
-    margin:0 auto;
-	margin-top:10px;
+.white-margin {
+  width: 99%;
+  height: 10px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 10px;
 }
-.paragraph{
-    width:100%;
-    margin-bottom:10px;
+.paragraph {
+  width: 100%;
+  margin-bottom: 10px;
 }
-h2,p{
-    margin:0px;
+h2,
+p {
+  margin: 0px;
 }
 .book .paragraph h2 {
-    color: rgb(255, 255, 255); 
-  }
-  
-.author{
-	color: rgb(119, 119, 119);
+ 
 }
-.price-block{
-    width:490px;
-	background-color: rgb(46, 204, 113);
-    color: rgb(255, 255, 255);
-	border:none;
-	border-radius:3px;
-    cursor: pointer;
-    font-size: 16px;
-    padding: 5px;
+
+.author {
+  color: #777777;
 }
-p:hover{
-    color: black;
-    font-weight: 500;
+.price-block {
+  width: 490px;
+  background-color: rgb(46, 204, 113);
+  color: #2ecc71;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 5px;
+}
+p:hover {
+  color: black;
+  font-weight: 500;
 }
