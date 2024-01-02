@@ -55,7 +55,7 @@ h2,p{
     margin:0px;
 }
 .book .paragraph h2 {
-    color: rgb(255, 255, 255); /* Set the text color to white */
+    color: rgb(255, 255, 255); 
   }
   
 .author{
@@ -63,7 +63,7 @@ h2,p{
 }
 .price-block{
     width:490px;
-	background-color: rgb(46, 204, 113); /* Set the button background color */
+	background-color: rgb(46, 204, 113);
     color: rgb(255, 255, 255);
 	border:none;
 	border-radius:3px;
