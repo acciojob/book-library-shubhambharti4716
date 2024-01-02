@@ -35,6 +35,7 @@ h1{
   width: 50%;
   overflow: hidden;
   margin-block: 10px;
+	background-color: rgb(46, 204, 113);
 }
 img {
   width: 100%;
